@@ -17,6 +17,7 @@ A program written in `C++`, that takes an input from `input.txt` file. Input can
 - Element Symbol
 - Group
 - Melting Point
+
 After display fetched data *graphically*, it generates an `output.txt` file. That contains all fetched information in nice and decent formatted way.
 
 ### Download Link: https://drive.google.com/open?id=1UPFU7fsIZbAnQfZTganKv0IyCuT-TyPR
