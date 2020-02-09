@@ -1,8 +1,4 @@
 ## *Modern Periodic Table*
-
-##### Department of Computer Science & Information Technology
-#### Language: C++
-
 A program written in `C++`, that takes an input from `input.txt` file. Input can only be either `Atomic Number` or `Element Symbol`. After, giving input to the program through file, it fetches following information from the given `data` files:
 - Atomic Number
 - Atomic Radius
