@@ -41,4 +41,4 @@ Anyways, Happy Coding <3
 
 A project by *HyphenSaad*.
 
-##### If, you face any error in given code. Then, feel free to mail here: `HyphenSaad@gmail.com`
+##### *If, you face any error in given code. Then, feel free to mail here:* `HyphenSaad@gmail.com`
