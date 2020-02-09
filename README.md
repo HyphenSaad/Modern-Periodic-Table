@@ -1,5 +1,4 @@
-## *Semester 01*
-### Modern Periodic Table
+## *Modern Periodic Table*
 
 ##### Department of Computer Science & Information Technology
 #### Language: C++
