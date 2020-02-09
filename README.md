@@ -26,7 +26,7 @@ After display fetched data *graphically*, it generates an `output.txt` file. Tha
 ### Compile
 You should have configured `C++` Compiler. Open command promt in the project directory and execute the following command:
 ```
-g++ -L"include\lib" -c main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+g++ -L"include\lib" main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
 ```
 
 It also has an animated intro, that runs only when the program starts.
