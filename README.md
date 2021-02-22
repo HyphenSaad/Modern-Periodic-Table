@@ -15,8 +15,7 @@ A program written in `C++`, that takes an input from `input.txt` file. Input can
 
 After display fetched data *graphically*, it generates an `output.txt` file. That contains all fetched information in nice and decent formatted way.
 
-### Download Link: https://drive.google.com/open?id=1UPFU7fsIZbAnQfZTganKv0IyCuT-TyPR
-(_RAR file, that has an executable, user-manual and other data files_)
+(_Provided RAR file has an executable, user-manual and other data files_)
 
 ### Compile
 You should have configured `C++` Compiler. Open command promt in the project directory and execute the following command:
